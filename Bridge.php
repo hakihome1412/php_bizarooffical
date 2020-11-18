@@ -1,0 +1,9 @@
+<?php
+require_once('./core/Database.php');
+require_once('./core/Foods.php');
+require_once('./core/Cart.php');
+require_once('./core/User.php');
+require_once('./core/Size.php');
+require_once('./core/Order.php');
+require_once('./core/InforShip.php');
+require_once('./core/OrderDetail.php');

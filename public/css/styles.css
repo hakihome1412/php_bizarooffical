@@ -1,0 +1,32 @@
+.font-size-14 {
+  font-size: 14;
+}
+
+.font-size-16 {
+  font-size: 16;
+}
+
+.font-size-20 {
+  font-size: 20;
+}
+
+.font-sans {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.color-violet-bg {
+  background-color: violet;
+}
+
+.color-white-bg {
+  background-color: white;
+}
+
+.color-black-bg {
+  background-color: black;
+}
+
+.active {
+  background-color: violet;
+}
